@@ -4,9 +4,7 @@ A machine learning-based system designed to detect human screams in real-time or
 
 ##  Overview
 
-This project utilizes MFCC (Mel-Frequency Cepstral Coefficients) features and a trained Neural Network to classify audio as either **Scream** or **Non-Scream**. It includes a real-time scream monitoring system as well as file-based analysis, with visual risk level outputs via a Python GUI built using **Kivy**.
-
-##  Features
+This project integrates **machine learning**, **audio signal processing**, and **software engineering** principles to develop a real-time scream detection system with alert capabilities. The system uses Mel Frequency Cepstral Coefficients (MFCCs) as features and a neural network for classification. The model predicts whether an audio sample contains a scream or non-scream, assigning a risk level based on its confidence.
 
 -  **Real-Time Scream Detection** using microphone input.
 -  **Audio File Detection** for pre-recorded samples.
