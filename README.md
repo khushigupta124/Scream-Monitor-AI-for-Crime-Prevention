@@ -16,11 +16,9 @@ This project integrates **machine learning**, **audio signal processing**, and *
 ## User Interface Screenshots
 
 ### 1. Selecting an Audio File
-The user first selects an audio file from the system. In this example, the file **"abuse_female_screaming-and-why.wav"** was selected for testing.
-
-![Select Audio File]([https://github.com/khushigupta124/Scream-Monitor-AI-for-Crime-Prevention/blob/main/kivy%20output%201.png](https://github.com/khushigupta124/Scream-Monitor-AI-for-Crime-Prevention/blob/main/kivy%20output%201.png?raw=true)
+The user selects an audio file for detection.
+![Select Audio File](https://github.com/khushigupta124/Scream-Monitor-AI-for-Crime-Prevention/blob/main/kivy%20output%202.png?raw=true)
 
 ### 2. Scream Detection Result
 After clicking the **"Detect Scream"** button, the system analyzes the audio file. The model detected a **scream sound** and classified it as **HIGH RISK**.
-
-![Scream Detected (High Risk)]([https://github.com/username/repo-name/blob/main/path/to/kivy%20output%201.png?raw=true](https://github.com/khushigupta124/Scream-Monitor-AI-for-Crime-Prevention/blob/main/kivy%20output%202.png?raw=true)
+![Scream Detected (High Risk)](https://github.com/khushigupta124/Scream-Monitor-AI-for-Crime-Prevention/blob/main/kivy%20output%201.png?raw=true)
