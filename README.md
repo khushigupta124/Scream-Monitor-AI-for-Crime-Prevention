@@ -77,5 +77,4 @@ These results validate the system’s effectiveness in recognizing distress sign
 - **Edge Deployment**  
   Portable version for embedded devices like **Raspberry Pi** or **Android smartphones**.
 
----
 
