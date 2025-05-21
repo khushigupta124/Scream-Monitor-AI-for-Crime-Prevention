@@ -12,8 +12,6 @@ This project integrates **AI**, **audio signal processing**, and **software engi
 
 ## Key Features
 
-- **Real-Time Detection**  
-  Live scream detection using a connected microphone.
 
 - **Audio File Support**  
   Analyze pre-recorded `.wav` audio files for distress sounds.
