@@ -1,6 +1,6 @@
 # Scream Monitor: Human Scream Detection and Alert System
 
-A machine learning-based system built to detect human screams from real-time microphone input or pre-recorded audio files. Designed to enhance public safety, this solution enables rapid alert generation in potential emergency or crime scenarios through real-time signal classification.
+A machine learning-based system built to detect human screams from audio inputs with high accuracy. By leveraging advanced signal processing and classification techniques, this system enables timely detection and risk-based alerting, contributing to enhanced public safety in emergency and crime scenarios.
 
 ---
 
