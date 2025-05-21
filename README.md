@@ -75,6 +75,6 @@ These results validate the system’s effectiveness in recognizing distress sign
   Remote logging and dashboard for law enforcement or emergency services.
 
 - **Edge Deployment**  
-  Portable version for embedded devices like **Raspberry Pi** or **Android smartphones**.
+  Portable version for embedded devices like Raspberry Pi or Android smartphones.
 
 
